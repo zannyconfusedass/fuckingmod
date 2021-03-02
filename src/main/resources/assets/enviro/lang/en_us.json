@@ -1,0 +1,11 @@
+{
+  "itemGroup.enviro.general": "Enviro",
+
+  "block.enviro.mud": "Mud Block",
+  "block.enviro.wet_dirt": "Wet Dirt",
+  "block.enviro.dry_mud": "Dry Mud",
+
+  "item.enviro.camel_spawn_egg": "Camel Spawn Egg",
+
+  "entity.enviro.camel": "Camel"
+}

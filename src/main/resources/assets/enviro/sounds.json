@@ -1,0 +1,46 @@
+{
+    "camel_ambient": {
+      "subtitle": "Camel Grunts",
+      "sounds": [
+        "enviro:camel/ambient/bleat1",
+        "enviro:camel/ambient/bleat2",
+        "enviro:camel/ambient/whine"
+      ]
+    },
+  "camel_angry": {
+    "subtitle": "Camel Growls",
+    "sounds": [
+      "enviro:camel/angry/grumble3"
+    ]
+  },
+    "camel_hurt": {
+      "subtitles": "Camel Grumbles",
+      "sounds": [
+        "enviro:camel/hurt/bleat3",
+        "enviro:camel/hurt/grumble2"
+      ]
+    },
+    "camel_death": {
+      "subtitles": "Camel Dies",
+      "sounds": [
+        "enviro:camel/death/grumble"
+      ]
+    },
+    "camel_step":{
+      "subtitles": "Camel Steps",
+      "sounds": [
+        "minecraft:mob/llama/step1",
+        "minecraft:mob/llama/step2",
+        "minecraft:mob/llama/step3",
+        "minecraft:mob/llama/step4",
+        "minecraft:mob/llama/step5"
+      ]
+    },
+  "camel_hum": {
+    "subtitles": "Calf Hums",
+    "sounds": [
+      "enviro:camel/baby/hum",
+      "enviro:camel/baby/hum2"
+    ]
+  }
+}
